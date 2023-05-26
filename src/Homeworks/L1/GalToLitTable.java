@@ -1,4 +1,4 @@
-package L1_JavaPrimitives_Operators;
+package Homeworks.L1;
 
 public class GalToLitTable {
     public static void main(String[] args) {
