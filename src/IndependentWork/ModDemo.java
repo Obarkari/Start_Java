@@ -1,4 +1,4 @@
-package L1_JavaPrimitives_Operators;
+package IndependentWork;
 
 public class ModDemo {
     public static void main(String[] args) {

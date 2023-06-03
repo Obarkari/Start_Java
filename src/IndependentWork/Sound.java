@@ -1,4 +1,4 @@
-package L1_JavaPrimitives_Operators;
+package IndependentWork;
 
 import java.util.Scanner;
 
