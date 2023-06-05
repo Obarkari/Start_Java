@@ -1,4 +1,4 @@
-package IndependentWork;
+package Homeworks.L1;
 
 import java.util.Scanner;
 
