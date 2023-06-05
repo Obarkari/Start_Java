@@ -13,7 +13,7 @@ public class GoToWorkOrNot {
         System.out.println("Today is holiday? Answer true or false");
         boolean isHoliday = input.nextBoolean();
 
-        if (isWeekday & isHoliday) System.out.println("It is not weekend bat you can stay home, becous...");
+        if (isWeekday & isHoliday) System.out.println("It is not weekend bat you can stay home, becous it`s holiday.");
         if (isWeekday | isHoliday) System.out.println("It is weekend or holiday, so stay home.");
         if (isWeekday & isHoliday) System.out.println("It is weekend and not holiday, so go to work.");
 
