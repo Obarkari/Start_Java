@@ -1,4 +1,4 @@
-package Homeworks.L1;
+package Homeworks.L1HW;
 
 public class GalToLitTable {
     public static void main(String[] args) {

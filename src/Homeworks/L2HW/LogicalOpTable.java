@@ -1,4 +1,4 @@
-package Homeworks.L2;
+package Homeworks.L2HW;
 
 public class LogicalOpTable {
     public static void main(String[] args) {
