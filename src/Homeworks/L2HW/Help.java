@@ -1,4 +1,4 @@
-package Homeworks;
+package Homeworks.L2;
 
 public class Help {
     public static void main(String[] args)
